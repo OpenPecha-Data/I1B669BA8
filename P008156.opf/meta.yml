@@ -1,15 +1,16 @@
-id: opecha:P008156
+id: P008156
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W30440
   title: བོད་ལྗོངས་རྒྱུན་སྤྱོད་ཀྲུང་དབྱིའི་སྨན་རིགས
-  volume:
+  author: ''
+  volumes:
     ade2d19428064e03bc4c52e4498f5ddd:
       image_group_id: I1PD30325
       title: Volume 1 of bod ljongs rgyun spyod krung dbyi'i sman rigs
       volume_number: 1
       total_pages: 1322
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་ལྗོངས་རྒྱུན་སྤྱོད་ཀྲུང་དབྱིའི་སྨན་རིགས
   author: ''
